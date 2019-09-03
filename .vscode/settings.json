@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/Users/lfish/anaconda3/bin/python",
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true
+}
